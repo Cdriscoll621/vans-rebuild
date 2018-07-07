@@ -1,0 +1,19 @@
+body {
+  background: #F1F2ED;
+  color: #2B2B2B;
+  padding: 0;
+  margin: 0;
+  font-family: Helvetica Neue,Arial,sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1;
+  position: relative;
+  cursor: auto;
+  font-size: 1em;    
+}
+
+div {
+  margin: 0;
+  padding: 0;
+  
+}
